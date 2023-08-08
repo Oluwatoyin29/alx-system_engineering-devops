@@ -1,1 +1,1 @@
-displaying the first lines
+writing a script
