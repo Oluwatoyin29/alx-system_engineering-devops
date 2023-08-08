@@ -1,1 +1,1 @@
-i am printing a script
+i am displaying a smiley
