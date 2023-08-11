@@ -1,1 +1,1 @@
-cloth
+gold
